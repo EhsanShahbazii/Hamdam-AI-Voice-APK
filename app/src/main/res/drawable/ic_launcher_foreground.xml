@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Background Aura -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+    <path
+        android:fillColor="#20FFFFFF"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Left Soundwaves (RTL-friendly) -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 32 44 C 28 48, 28 60, 32 64" />
+    <path
+        android:strokeColor="#FF8A80"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 24 36 C 16 44, 16 64, 24 72" />
+
+    <!-- Right Soundwaves -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 76 44 C 80 48, 80 60, 76 64" />
+    <path
+        android:strokeColor="#FF8A80"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 84 36 C 92 44, 92 64, 84 72" />
+
+    <!-- Microphone Body Outer/Stand -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 38 48 C 38 64, 70 64, 70 48" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54 62 L 54 78" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 42 78 L 66 78" />
+
+    <!-- Microphone Grille / Cap -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M 46 34 C 46 25, 62 25, 62 34 L 62 48 C 62 57, 46 57, 46 48 Z" />
+    
+    <!-- Heart Accent on Mic Grille -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M54,44 C54,44 51,41 49,43 C47,45 49,48 54,51 C59,48 61,45 59,43 C57,41 54,44 54,44 Z" />
+
+</vector>
