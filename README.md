@@ -110,4 +110,4 @@ gradle test
 
 ## License
 
-No license has been added yet. Add one before publishing if you want others to reuse or modify the project under clear terms.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
